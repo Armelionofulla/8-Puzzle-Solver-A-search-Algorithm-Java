@@ -4,9 +4,8 @@ The Slider Puzzle Solver is a Java-based project designed for puzzle enthusiasts
 
 
 
-## Appendix
+## Additional Resources
 
-Additional Resources:
 
 [Slider Puzzle Overview](https://en.wikipedia.org/wiki/Sliding_puzzle): Learn more about the history and types of sliding puzzles.
 
